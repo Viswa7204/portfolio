@@ -1,0 +1,27 @@
+[
+   {
+     "title": "Smart Dine-in",
+     "imageSrc": "projects/project.png",
+     "description": "A personalised food recommendation system using Machine Learning.",
+     "skills": ["ReactNative","Node","Python","AIML"],
+     "demo": "https://www.example.com",
+     "source": "https://www.github.com"
+   },
+   {
+     "title": "Portfolio",
+     "imageSrc": "projects/project.png",
+     "description": "My personal Portfolio used to showcase about Myself.Used Github to host the website.",
+     "skills": ["React","Figma"],
+     "demo": "https://www.example.com",
+     "source": "https://www.github.com"
+   },
+   {
+     "title": "Project C",
+     "imageSrc": "projects/project.png",
+     "description": "This is a project made to learn the latest languages by building an app.",
+     "skills": ["React", "Express", "Node"],
+     "demo": "https://www.example.com",
+     "source": "https://www.github.com"
+  }
+]
+
