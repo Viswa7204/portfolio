@@ -36,11 +36,11 @@
     "imageSrc": "skills/mysql.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
-  },
-  {
     "title": "Machine Learning",
     "imageSrc": "skills/machine.png"
+  },
+  {
+    "title": "Linux/Unix",
+    "imageSrc": "skills/Linux.jpeg"
   }
 ]
