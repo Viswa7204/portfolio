@@ -24,12 +24,12 @@
      "source": "https://github.com/Viswa7204/Personal-Finance-Tracker"
   },
   {
-     "title": "My",
+     "title": "MySQL and Apache Container",
      "imageSrc": "projects/project.png",
      "description": "Personal Finance Tracker using Python with Pandas, MatPlotLib Libraries.",
      "skills": ["Docker", "Linux", "HTML", "SQL"],
      "demo": "https://www.example.com",
-     "source": "https://github.com/Viswa7204/Personal-Finance-Tracker"
+     "source": "https://github.com/Viswa7204/MySQL-Apache-Containers"
   }
 ]
 
